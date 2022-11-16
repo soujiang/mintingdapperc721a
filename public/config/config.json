@@ -1,0 +1,23 @@
+{
+  "CONTRACT_ADDRESS": "0x62078f64B75F25B986eC53966f59485C2F9844D1",
+  "SCAN_LINK": "https://etherscan.io/address/0x62078f64B75F25B986eC53966f59485C2F9844D1",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Catland Kitten",
+  "SYMBOL": "Catland Kitten",
+  "MAX_SUPPLY": 3333,
+  "DISPLAY_COST": 0.0169,
+  "GAS_LIMIT": 145000,
+  "MAX_PER_TX": 10,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/",
+  "Telegram": "https://",
+  "Discord": "https://disboard.org/es/server/861313067291115541",
+  "Twitter1": "https://twitter.com/Soujiang_ELTH",
+  "Twitter2": "https://twitter.com/electhrons",
+  "Twitter3": "https://twitter.com/leernen",
+  "SHOW_BACKGROUND": false
+}

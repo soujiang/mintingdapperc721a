@@ -665,16 +665,18 @@ function App() {
     </Panel>
     <Panel header="HOW TO PARTICIPATE IN OUR AIRDROP?">
     <s.TextP style={{textAlign: "justify"}}>
-    The adventure is just beginning, so join now and stay tuned so you can win from the start. Broadly speaking, the entire project that we are developing will be divided into several stages:
-    <br></br><br></br>
-    1. Zero cost NFT launch so users can collect the pieces and build their NFT 2.0 with our DApp.
-    <br></br><br></br>
-    2. When we have reached a certain number of participants in our social networks, we will launch different investment packages so that investors can obtain at a very low cost cryptocurrencies, special NFTs of creatures, Properties in the metaverse, improvement NFTs for their NFT 2.0 , etc.
-    <br></br><br></br>
-    3. Once all the packages have been distributed among the investors who wish to participate in this first stage, we will launch the airdrop of our cryptocurrency, where we will also deliver NFTs 2.0, properties in the metaverse and NFTs, through a raffle, among all those who have sold, bought or given away the different collections of NFTs that we are uploading to OPENSEA. Favoring the exchange of the NFTs of the different collections that we will upload.
-    <br></br><br></br>
-    Essentially, all you have to do to participate in our AIRDROP is simply mint and start trading or selling any of the NFTs from all the collections we'll be uploading, starting with CATLAND KITTEN. It's that easy to participate in our airdrop while earning money selling the NFTs.
-          </s.TextP>
+The adventure is just beginning, so join now and stay tuned so you can win from the start. Broadly speaking, the entire project that we are developing will be divided into several stages:
+<br></br><br></br>
+1. Zero cost NFT launch so users can collect the pieces and build their NFT 2.0 with our DApp.
+<br></br><br></br>
+2. When we have reached a certain number of participants in our social networks, we will launch different investment packages so that investors can obtain cryptocurrencies at a very low cost, special NFTs of creatures, Properties in the metaverse, NFTs of improvement for their NFTs 2.0, etc.
+<br></br><br></br>
+3. Once all the packages have been distributed among the investors who wish to participate in this first stage, we will launch the airdrop of our cryptocurrency, where we will also deliver NFTs 2.0, properties in the metaverse, and NFTs, through a raffle, among all those who They have sold, bought or given away the different collections of NFTs that we are uploading to OPENSEA. Favoring the exchange of the NFTs of the different collections that we will be uploading.
+<br></br><br></br>
+Essentially, all you have to do to participate in our AIRDROP, is simply coin, and start trading or selling any of the NFTs from all the collections that we are going to upload. We will start with CATLAND KITTEN, and then we will continue uploading more collections, so that you can acquire them.
+<br></br><br></br>
+All the NFTs of our collections participate. It's that easy to participate in our AIRDROP, while earning money by selling the NFTs. You just have to consider that, if you redeem any of our NFTs at zero cost, using our minting DApp, you will participate in the airdrop when you have given away, exchanged or sold, any of the NFTs that you have obtained at zero cost. But if you buy any of the NFTs from any other user, you will already be participating, without doing anything else. The more NFTs you trade, the more chances you have to be a winner in our AIRDROP, because the more NFTs you trade, the more times your address will appear in the AIRDROP draws.
+    </s.TextP>
     </Panel>
     <Panel header="HOW DOES THE CREATION OF NFTs 2.0 WORK IN OUR FINANCIAL ECOSYSTEM?">
     <s.TextP style={{textAlign: "justify"}}>

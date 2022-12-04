@@ -1,19 +1,19 @@
 {
-  "CONTRACT_ADDRESS": "0xacf4ba705fe9cbad6eb39809eb4538c34bd81a16",
-  "SCAN_LINK": "https://goerli.etherscan.io/address/0xacf4ba705fe9cbad6eb39809eb4538c34bd81a16",
+  "CONTRACT_ADDRESS": "0x8fc61d294ce18eb3e8344db0cf9aba752ef35a8a",
+  "SCAN_LINK": "https://goerli.etherscan.io/address/0x8fc61d294ce18eb3e8344db0cf9aba752ef35a8a",
   "NETWORK": {
     "NAME": "Goerli",
     "SYMBOL": "GoerliETH",
     "ID": 5
   },
-  "NFT_NAME": "Catland-Kitten-Female",
+  "NFT_NAME": "prueba catlandkitten female cuatro",
   "SYMBOL": "CatlandKittenOne",
   "MAX_SUPPLY": 10000,
   "DISPLAY_COST": 0,
   "GAS_LIMIT": 145000,
   "MAX_PER_TX": 12,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/Catland-Kitten-Female",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/pruebacatlandkittenfemalecuatro",
   "Telegram": "https://",
   "Discord": "https://disboard.org/es/server/861313067291115541",
   "Twitter1": "https://twitter.com/Soujiang_ELTH",

@@ -753,7 +753,7 @@ All the NFTs of our collections participate. It's that easy to participate in ou
     <br></br><br></br>
     All collaborators get, to the extent of their participation, a collaborator package, which contains cryptocurrencies, NFTs 2.0, NFTs and other things. So if you are interested in participating, please contact us.
     <br></br><br></br>
-    https://electhrons.github.io/#
+    https://electhrons.org
           </s.TextP>
     </Panel>
   </PanelGroup>

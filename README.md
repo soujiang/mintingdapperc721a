@@ -17,7 +17,7 @@ The CATLAND KITTEN, are the base creatures, which will determine the gender of y
 # To find out more please visit:
 
 [✔ Twitter Official Electhrons](https://www.twitter.com/electhrons_elth)
-[✔ Twitter Official Lormirian Infinity](https://www.twitter.com/Lormirian_Inf)
+[✔ Twitter Official Lormirian Infinity](https://www.twitter.com/Lormirian_elth)
 [✔ Twitter Official Soujiang](https://www.twitter.com/Soujiang_elth)
 [✔ Discord Official Electhrons](https://discord.gg/MSAjKsKeRg)
 [✔ Instagram Official Electhrons](https://www.instagram.com/electhrons_elth/)

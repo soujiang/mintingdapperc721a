@@ -1,6 +1,6 @@
 # Welcome to CATLAND KITTENS
 
-![](https://github.dev/soujiang/mintingdapperc721a/blob/main/public/images/logo.png)
+![](https:soujiang/mintingdapperc721a/blob/main/public/images/logo.png)
 
 # STORY
 

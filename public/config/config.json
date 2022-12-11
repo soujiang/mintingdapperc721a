@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0xc916bbd595b14475fec3dcf20ccbdee9269b576c",
-  "SCAN_LINK": "https://goerli.etherscan.io/address/0xc916bbd595b14475fec3dcf20ccbdee9269b576c",
+  "CONTRACT_ADDRESS": "0x50643ac1403c16544fd77401b17731752888d53f",
+  "SCAN_LINK": "https://goerli.etherscan.io/address/0x50643ac1403c16544fd77401b17731752888d53f",
   "NETWORK": {
     "NAME": "Goerli",
     "SYMBOL": "GoerliETH",

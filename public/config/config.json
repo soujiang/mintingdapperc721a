@@ -8,7 +8,7 @@
   },
   "NFT_NAME": "CatlandKitten Female dic2022",
   "SYMBOL": "catlandkittensfem",
-  "MAX_SUPPLY": 100,
+  "MAX_SUPPLY": 10000,
   "DISPLAY_COST": 0,
   "GAS_LIMIT": 145000,
   "MAX_PER_TX": 12,

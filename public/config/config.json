@@ -1,10 +1,10 @@
 {
-  "CONTRACT_ADDRESS": "0xe2dfb35ba030834c39c9db855fc6795fcd555fab",
-  "SCAN_LINK": "https://goerli.etherscan.io/address/0xe2dfb35ba030834c39c9db855fc6795fcd555fab",
+  "CONTRACT_ADDRESS": "0x8cb55256149d7c53aaf2b5af9df0fa607e34f8e7",
+  "SCAN_LINK": "https://etherscan.io/address/0x8cb55256149d7c53aaf2b5af9df0fa607e34f8e7",
   "NETWORK": {
-    "NAME": "Goerli",
-    "SYMBOL": "GoerliETH",
-    "ID": 5
+    "NAME": "ETHEREUM",
+    "SYMBOL": "ETH",
+    "ID": 1
   },
   "NFT_NAME": "CatlandKitten Female dic2022",
   "SYMBOL": "catlandkittensfem",
